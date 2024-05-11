@@ -1,4 +1,6 @@
 ## Business tasks
+Initially we performed data cleaning on the dataset, dropping irrelevant columns and generated useful business insights. Given below are the step by step analysis that has been performed in Employee_payroll data.
+
 1. Remove the **'$'** and **‘,’** signs from the **'Base Pay'** column and change the column's data type to float (Use pandas for this and not excel)
 
 2. Create a column **'Fiscal Year'** in which you will get the **'Fiscal Year'** from the **'Fiscal Period'** column.
